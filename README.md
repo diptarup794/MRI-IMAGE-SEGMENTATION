@@ -1,8 +1,8 @@
 
-Here is a detailed README file for your project, focusing on MRI image segmentation using UNET and Res-UNET to detect and segment tumors. This README covers key information about the project, including its purpose, methodology, data source, implementation details, evaluation metrics, results, and how to run the project.
 
 MRI Tumor Segmentation with UNET and Res-UNET
-Table of Contents
+
+Table of Contents:
 Project Overview
 Data Source
 Model Architecture
