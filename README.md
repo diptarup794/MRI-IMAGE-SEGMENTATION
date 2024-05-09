@@ -1,4 +1,4 @@
-#MRI Brain Tumor Segmentation with UNet and ResUNet
+MRI Brain Tumor Segmentation with UNet and ResUNet
 
 1. Project Overview
 
